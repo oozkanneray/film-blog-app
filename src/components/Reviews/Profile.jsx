@@ -26,11 +26,11 @@ function Profile() {
         </div>
         <div className="mx-5">
           <div className="font-bold">Lists</div>
-          <div>{user.watched}</div>
+          <div>{user.lists}</div>
         </div>
         <div className="mx-5">
           <div className="font-bold">Likes</div>
-          <div>{user.watched}</div>
+          <div>{user.likes}</div>
         </div>
       </div>
       </div>  
