@@ -1,7 +1,7 @@
 import { userData } from "../userdata";
 import User from "../components/Reviews/User";
 import { useParams } from "react-router-dom";
-import Profile from "../components/Reviews/Profile";
+import Profile from "../components/Reviews/Profile/Profile";
 
 function People() {
 

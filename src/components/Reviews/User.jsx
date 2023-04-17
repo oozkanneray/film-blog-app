@@ -1,6 +1,6 @@
 import { list } from "postcss";
 import { Link } from "react-router-dom";
-import Profile from "./Profile";
+import Profile from "./Profile/Profile";
 
 function User({ userName, userImg, watched, lists, name, likes }) {
   return (
