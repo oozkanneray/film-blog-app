@@ -3,7 +3,7 @@ import Tvseries from "./pages/Tvseries"
 import {Routes,Route} from "react-router-dom"
 import Navbar from "./Navbar"
 import People from "./pages/People"
-import Profile from "./components/Reviews/Profile"
+import Profile from "./components/Reviews/Profile/Profile"
 
 function App() {
 
