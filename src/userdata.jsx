@@ -1,0 +1,67 @@
+export const userData = [
+    {
+        userName:"ebaytheway",
+        name:"Eray",
+        img_src:"https://a.ltrbxd.com/resized/avatar/upload/6/2/7/1/5/6/8/shard/avtr-0-1000-0-1000-crop.jpg?v=25c50d150a",
+        watched:106,
+        likes:29,
+        lists:2,
+        reviews:[
+            {
+                film_img:"",
+                filmName:"",
+                
+            }
+        ]
+    },
+    {
+        userName:"Dragesia",
+        name:"Berke",
+        img_src:"https://a.ltrbxd.com/resized/avatar/upload/6/1/2/8/9/5/2/shard/avtr-0-1000-0-1000-crop.jpg?v=756c9d6a7a",
+        watched:240,
+        likes:40,
+        lists:6,
+    },
+    {
+        userName:"Brenzalor",
+        name:"Burak",
+        img_src:"https://s.ltrbxd.com/static/img/avatar1000.a71b6e9c.png",
+        watched:22,
+        likes:16,
+        lists:0,
+    },
+    {
+        userName:"meybuzdayi",
+        name:"Alper",
+        img_src:"https://a.ltrbxd.com/resized/avatar/upload/6/3/1/9/3/6/9/shard/avtr-0-220-0-220-crop.jpg?v=d24386e055",
+        watched:20,
+        likes:0,
+        lists:0,
+    },
+    {
+        userName:"emr3rden",
+        name:"Emre",
+        img_src:"https://s.ltrbxd.com/static/img/avatar1000.a71b6e9c.png",
+        watched:217,
+        likes:88,
+        lists:17,
+        
+    },
+    {
+        userName:"Bettiiilttt",
+        name:"Ali",
+        img_src:"https://s.ltrbxd.com/static/img/avatar1000.a71b6e9c.png",
+        watched:86,
+        likes:16,
+        lists:1,
+    },
+    {
+        userName:"ivankerimovic",
+        name:"Kerim",
+        img_src:"https://a.ltrbxd.com/resized/avatar/upload/2/3/6/0/4/1/4/shard/avtr-0-220-0-220-crop.jpg?v=05d14f8cb4",
+        watched:1017,
+        likes:1025,
+        lists:129,
+    }
+    
+]
