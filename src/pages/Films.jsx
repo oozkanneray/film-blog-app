@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Filmreview from "../components/Reviews/Filmreview";
-import Star from "../Star";
+import Star from "../components/Reviews/Profile/Star";
 import { userData } from "../userdata";
 import Button from "../components/Reviews/Button";
 

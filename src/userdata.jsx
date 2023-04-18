@@ -23,6 +23,26 @@ export const userData = [
                 film_img:"https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-150-0-225-crop.jpg?v=b8aaf291a9",
                 film_name:"12 Angry Men"
             },
+        ],
+        reviews:[
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/7/2/1/3/3/3/721333-cocaine-bear-0-70-0-105-crop.jpg?v=4486ee174d",
+                film_name:"Cocaine Bear",
+                review:["ROOOOOOOOAAAAAAAAAAR!!!!"],
+                rating:3.5
+            },
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/2/1/0/6/0/21060-destiny-0-70-0-105-crop.jpg?v=3078cf599b",
+                film_name:"Destiny",
+                review:["Herkesin inandığı bir şey vardır bu amına koyduğumun hayatında. Benimki de sensin ne yapayım."],
+                rating:3
+            },
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-70-0-105-crop.jpg?v=136acec030",
+                film_name:"Get Out",
+                review:["'All animals are equal but some animals are more equal than others.'",],   
+                rating:4.5,
+            }
         ]
     },
     {
@@ -49,6 +69,20 @@ export const userData = [
                 film_img:"https://a.ltrbxd.com/resized/film-poster/3/4/8/9/1/4/348914-the-batman-0-150-0-225-crop.jpg?v=ec12a8b7ce",
                 film_name:"The Batman",
             }
+        ],
+        reviews:[
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/5/0/7/0/9/50709-star-wars-episode-iii-revenge-of-the-sith-0-70-0-105-crop.jpg?v=cdb8caab10",
+                film_name:"Star Wars: Episode III - Revenge of the Sith",
+                review:["Best film of prequel trilogy."],
+                rating:5
+            },
+            {
+                film_img:"https://a.ltrbxd.com/resized/sm/upload/mp/pz/lf/2i/7BuH8itoSrLExs2YZSsM01Qk2no-0-70-0-105-crop.jpg?v=27c6c6fba7",
+                film_name:"The Empire Strikes Back",
+                review:["r2d2 screaming is favourite moment of my life"],
+                rating:4.5
+            }
         ]
     },
     {
@@ -74,6 +108,20 @@ export const userData = [
             {
                 film_img:"https://a.ltrbxd.com/resized/sm/upload/de/kp/63/hd/dWg33ektXuHmxjSjEulwDPTWbC2-0-150-0-225-crop.jpg?v=df40f228cb",
                 film_name:"Cars"
+            }
+        ],
+        reviews:[
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-150-0-225-crop.jpg?v=b8aaf291a9",
+                film_name:"12 Angry Men",
+                review:"Best movie i have ever seen",
+                rating:5
+            },
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-70-0-105-crop.jpg?v=9475abb05b",
+                film_name:"Chungking Express",
+                review:["Cinematography is good but story feels incomplete, didn't connect to characters and i don't understand why others are praising this movie."],
+                rating:0.5
             }
 
         ]
@@ -102,7 +150,13 @@ export const userData = [
                 film_img:null,
                 film_name:null,
             },
-        ]
+        ],
+        reviews:[  
+        {
+            film_img:null,
+            film_name:null,
+            review:[null]
+        }]
     },
     {
         userName:"emr3rden",
@@ -128,7 +182,13 @@ export const userData = [
                 film_img:"https://a.ltrbxd.com/resized/film-poster/3/1/8/2/3/31823-yahsi-bati-the-ottoman-cowboys-0-150-0-225-crop.jpg?v=f6fd903227",
                 film_name:"Yahşi Batı"
             }
-        ]
+        ],
+        reviews:[  
+            {
+                film_img:null,
+                film_name:null,
+                review:[null]
+            }]
         
     },
     {
@@ -154,6 +214,14 @@ export const userData = [
             {
                 film_img:null,
                 film_name:null,
+            },
+        ],
+        reviews:[
+            {
+                film_img:"https://a.ltrbxd.com/resized/film-poster/3/8/5/5/1/1/385511-doctor-strange-in-the-multiverse-of-madness-0-70-0-105-crop.jpg?v=009a8981af",
+                film_name:"Doctor Strange in the Multiverse of Madness",
+                review:["madness dudeee"],
+                rating:0.5
             },
         ]
     },
@@ -181,6 +249,12 @@ export const userData = [
                 film_img:"https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/2/451512-the-last-black-man-in-san-francisco-0-150-0-225-crop.jpg?v=7ed1dacd29",
                 film_name:"The Last Black Man in San Francisco",
             },
-        ]
+        ],
+        reviews:[  
+            {
+                film_img:null,
+                film_name:null,
+                review:[null]
+            }]
     }
 ]
